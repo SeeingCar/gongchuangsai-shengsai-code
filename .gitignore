@@ -1,0 +1,10 @@
+# OS / editor junk
+Thumbs.db
+ehthumbs.db
+desktop.ini
+.DS_Store
+~$*
+*.swp
+
+# temp
+*.tmp

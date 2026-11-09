@@ -1,0 +1,4 @@
+* text=auto eol=lf
+
+# Binary documents — never diff/merge line-wise
+*.pdf binary
