@@ -1,0 +1,35 @@
+# Keil MDK 编译产物
+*.o
+*.d
+*.crf
+*.axf
+*.map
+*.lst
+*.lnp
+*.dep
+*.htm
+*.build_log.htm
+MDK-ARM/hard/
+MDK-ARM/hard_*.build_log.htm
+MDK-ARM/JLinkLog.txt
+MDK-ARM/*.uvguix.*
+MDK-ARM/DebugConfig/*.uvguix.*
+MDK-ARM/*.scvd
+
+# IAR EWARM 编译产物
+EWARM/Debug/
+EWARM/Release/
+EWARM/**/Obj/
+EWARM/**/List/
+EWARM/**/Exe/
+
+# 编辑器 / 备份 / 系统文件
+*.bak
+*.orig
+*.swp
+*~
+Thumbs.db
+desktop.ini
+.DS_Store
+__pycache__/
+*.pyc
